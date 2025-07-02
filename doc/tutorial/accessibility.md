@@ -198,8 +198,8 @@ To define the `tabindex` of the buttons, we will use the `tabIndex` configuratio
             "enabled": true,
             "side": "right",
             "parentContainer": "options",
-            "description": "Select captions",
-            "ariaLabel": "Select captions"
+            "description": "Captions",
+            "ariaLabel": "Captions"
         },
 
         "es.upv.paella.forwardButtonPlugin": {
